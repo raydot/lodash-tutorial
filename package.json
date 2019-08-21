@@ -1,0 +1,31 @@
+{
+  "name": "lodash-tutorial",
+  "version": "1.0.0",
+  "description": "See the README for details",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raydot/lodash-tutorial.git"
+  },
+  "keywords": [
+    "javascript",
+    "lodash",
+    "programming"
+  ],
+  "author": "Dave Kanter",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/raydot/lodash-tutorial/issues"
+  },
+  "homepage": "https://github.com/raydot/lodash-tutorial#readme",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  },
+  "devDependencies": {
+    "eslint": "^6.2.1",
+    "eslint-config-google": "^0.13.0"
+  }
+}
